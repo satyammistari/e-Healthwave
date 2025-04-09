@@ -6,7 +6,7 @@ We Build Centralized HealthCare Platform using Blockchain(Hyperledger fabric)
 
 **watch video**:[Watch Demo Video](loom-video-vidburner.com.mp4)
 
-**watch loom video**:[![Watch Demo on Loom](https://cdn.loom.com/sessions/thumbnails/6c2fc4db4d7e4cb7b7fde1c4a7b0cdf6-with-play.gif)](https://www.loom.com/share/6c2fc4db4d7e4cb7b7fde1c4a7b0cdf6?sid=cd28b175-21b6-4c5a-b07c-b6ffa405e57c)
+**watch loom video**: [![Watch Demo on Loom](https://cdn.loom.com/sessions/thumbnails/6c2fc4db4d7e4cb7b7fde1c4a7b0cdf6-with-play.gif)](https://www.loom.com/share/6c2fc4db4d7e4cb7b7fde1c4a7b0cdf6?sid=cd28b175-21b6-4c5a-b07c-b6ffa405e57c)
 
 
 
